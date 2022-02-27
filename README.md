@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vino M Mathew @vinomz
 - 👀 I’m interested in Computer Vision, Deep Learning, IoT, Full Stack
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning VueJS & FastAPI
 - 💞️ I’m looking to collaborate on developing AI applications.
 - 💌 Connect me on LinkedIn https://www.linkedin.com/in/vinomz/
 
